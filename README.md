@@ -16,4 +16,10 @@ Herramienta digital pensada para ayudar a estudiantes y trabajadores con poco ti
 ---
 
 Este kit fue diseñado con foco en el bienestar, la organización y la conexión con uno mismo. Ideal para quienes estudian y trabajan con poco tiempo.
+---
 
+## 🧠 ¿Por qué lo hice?
+
+Porque sé lo que es trabajar, estudiar, tener poco tiempo… y aún así querer superarse. Este kit nació de mi propia necesidad, y si puede ayudar a otros, entonces ya cumplió su misión.
+
+🧩 Creado con conciencia, por Aldo Silva Machado.
